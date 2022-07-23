@@ -1,7 +1,7 @@
 from tkinter import *
 from tkinter import messagebox
 window = Tk()
-window.title("Морской бой !!!")
+window.title("Морской бой")
 window.geometry('260x370')
 ent=Entry(justify="right",font="14")
 ent.place(x=20,y=20,width=220,height=30)
